@@ -6,6 +6,10 @@ const mongoose = require('../db/connection')
      name: {type: String, required: true},
      colorWay: String,
      img: String,
+     bottomL: String,
+     bottomCL: String,
+     bottomCR: String,
+     bottomR: String,
      condition: String,
      size: {type: Number},
      worn: {type: Number, min: 0}

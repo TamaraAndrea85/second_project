@@ -496,7 +496,7 @@ html,
 .sneaker-content {
   padding: 2rem 1rem;
   font-size: 60px;
-  color: #12263a;
+  color: #4b4a54;
 }
 .sneaker-name {
   font-size: 3rem;
@@ -553,6 +553,10 @@ html,
 .delete-sneaker {
   margin: 1.5rem 0;
   font-size: 110px;
+}
+.delete{
+  font-size: 55px;
+
 }
 @media screen and (min-width: 767px) {
   .show-card {
