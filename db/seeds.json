@@ -1,0 +1,101 @@
+[{
+    "brand": "NIKE",
+    "name": "NIKE AIR JORDAN 11 “COOL GRAY” 2021",
+    "colorWay": "Medium Grey",
+    "img": "https://www.highsnobiety.com/static-assets/thumbor/u3gHDHR38mT1-JetR23P943SO5w=/1600x1067/www.highsnobiety.com/static-assets/wp-content/uploads/2021/11/16095007/nike-air-jordan-11-cool-gray-2021-release-date-price-011.jpg",
+    "condition": "UnBoxed",
+    "size":4.5,
+    "worn":1
+},
+{
+    "brand": "NIKE",
+    "name": "AIR JORDAN 5 “RAGING BULL” AKA “TORO BRAVO”",
+    "colorWay": "Varsity Red/Black",
+    "img": "https://sneakerbardetroit.com/wp-content/uploads/2021/01/Air-Jordan-5-Raging-Bull-Varsity-Red-DD0587-600-Release-Date.jpg",
+    "condition": "UnBoxed",
+    "size": 4.5,
+    "worn": 1
+},
+{
+    "brand": "NIKE",
+    "name": "AIR JORDAN 4 RETRO PS 'LIGHTNING' 2021",
+    "colorWay":"Tour Yellow/Dark Blue Grey",
+    "img": "https://sneakerbardetroit.com/wp-content/uploads/2021/05/Air-Jordan-4-Lightning-CT8527-700-Release-Date.jpg",
+    "condition": "UnBoxed",
+    "size": 4.5,
+    "worn": 0
+},
+{
+    "brand": "NIKE",
+    "name": "2020 AIR JORDAN 1 MID SE",
+    "colorWay": "Dynamic Yellow/Black-White",
+    "img": "https://pbs.twimg.com/media/ES3dWEfVAAUJDfR.jpg",
+    "condition": "UnBoxed",
+    "size": 4.5,
+    "worn": 1
+},
+{
+    "brand": "NIKE",
+    "name": "AIR JORDAN 6 RETRO 'HARE'",
+    "colorWay": "Neurtal Grey/Black-White",
+    "img": "https://sneakerbardetroit.com/wp-content/uploads/2020/04/Air-Jordan-6-Hare-Release-Date-CT8529-062.jpg",
+    "condition": "UnBoxed",
+    "size": 4.5,
+    "worn": 1
+},
+{
+   "brand": "NIKE",
+   "name": "NIKE DUNK LOW COAST",
+    "colorWay": "Sail/Coast University Gold",
+    "img": "https://sneakernews.com/wp-content/uploads/2021/02/Nike-Dunk-Low-Coast-DD1503-100-07.jpg",
+    "condition": "UnBoxed",
+    "size": 4.5,
+    "worn": 1
+},
+{
+    "brand": "NIKE",
+    "name": "NIKE DUNK HIGH SP VARSITY MAIZE",
+    "colorWay": "Black/Vasity Maize",
+    "img": "https://sneakerbardetroit.com/wp-content/uploads/2020/11/Nike-Dunk-High-Varsity-Maize-CZ8149-002-Release-Date-Price-4-1068x717.jpg",
+    "condition": "UnBoxed",
+    "size": 4.5,
+    "worn": 2
+},
+{
+    "brand": "NIKE",
+    "name": "Dunk Low 'Barely Green'",
+    "colorWay": "Sail/Crimson Tint-Barely Green",
+    "img": "https://wavypack.com/wp-content/uploads/2021/05/nike-dunk-low-barely-green-wavypack.com-4.jpg",
+    "condition": "BOxed ",
+    "size": 6,
+    "worn": 0
+},
+{
+    "brand": "NIKE",
+    "name": "Nike Dunk Low “University Gold”",
+    "colorWay": "Dynamic Yellow/Black-White",
+    "img": "https://sneakerbardetroit.com/wp-content/uploads/2021/08/Nike-Dunk-Low-Orange-Gold-Yellow-DQ4690-800-Release-Date-4.jpg",
+    "condition": "Boxeed",
+    "size": 6,
+    "worn": 0
+},
+{
+    "brand": "NIKE",
+    "name": "Nike Air Max 90 Exotic Animal",
+    "colorWay": "Black Violet Pop",
+    "img": "https://cdn.shopify.com/s/files/1/1019/8303/products/CZ5588-001-PHCFH001_875x.jpg",
+    "condition": "UnBoboxed",
+    "size": 4.5,
+    "worn": 1
+
+},
+{
+    "brand": "NIKE",
+    "name": "KYRIE 6 NEON GRAFFITI",
+    "colorWay": "White/Blue Fury-Opti Yellow",
+    "img": "https://images.solecollector.com/complex/images/c_crop,h_1073,w_1907,x_53,y_681/c_fill,dpr_2.0,f_auto,fl_lossy,q_auto,w_680/nopnbzq0hfzbaxexqr9u/nike-kyrie-6-neon-graffiti-bq4630-101-pair",
+    "condition": "Boxed",
+    "size": 4.5,
+    "worn": 0
+}
+]
