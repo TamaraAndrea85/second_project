@@ -10,6 +10,11 @@ const mongoose = require('../db/connection')
      bottomCL: String,
      bottomCR: String,
      bottomR: String,
+     lnk1: String,
+     lnk2: String,
+     lnk3: String,
+     lnk4: String,
+
      condition: String,
      size: {type: Number},
      worn: {type: Number, min: 0}
