@@ -27,6 +27,9 @@ unsolved problems*
 would like to come back in the future to add users, maybe a sell feature, and potentially add more products.
 
 GitHub Project Repo
+https://github.com/TamaraAndrea85/second_project.git
+
+Deployed Heroku app
 
 
 
