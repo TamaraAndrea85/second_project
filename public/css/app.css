@@ -160,11 +160,14 @@
 /* edit */
 .background {
   background-image: url("/images/Nike_Air_Max_2015_womens1_native_1600.jpeg");
+  height: 100vh;
+  width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 74em;
+  padding: 95em;
   opacity: 0.35;
-  position: relative;
+  position: absolute;
+  
 }
 html,
 .edit-div {
@@ -175,11 +178,13 @@ html,
 
 .edit-div {
   font-family: "Permanent Marker", cursive;
-  display: flex;
+  display: inline;
   align-items: center;
   height: 100vh;
   justify-content: center;
-  position: relative;
+  position: absolute;
+  /* z-index: 1; */
+  width: 100vw;
 }
 
 .edit-card {
@@ -189,9 +194,10 @@ html,
   border: 6px solid rgba(64, 26, 125, 0.3);
   box-shadow: 20px 20px 0 #b56ad6;
   border-radius: 50px;
-  position: relative;
-  bottom: 100%;
-  display: blok;
+  position: absolute;
+  bottom: 30%;
+  left: 25%;
+  display: block;
 }
 
 .edit-card h2 {
@@ -316,6 +322,14 @@ html,
   background-image: url("/images/mystery-Sneaker.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 95em;
+  opacity: 0.35;
+  position: absolute;
+  
   padding: 74em;
   opacity: 0.35;
 }
@@ -342,9 +356,10 @@ html,
   border: 6px solid rgba(122, 122, 123, 0.3);
   box-shadow: 20px 20px 0 #212020;
   border-radius: 50px;
-  position: relative;
-  bottom: 90%;
-  display: blok;
+  position: absolute;
+  bottom: 30%;  
+   left: 25%;
+  display: block; 
 }
 
 .new-card h2 {
@@ -554,9 +569,8 @@ html,
   margin: 1.5rem 0;
   font-size: 110px;
 }
-.delete{
+.delete {
   font-size: 55px;
-
 }
 @media screen and (min-width: 767px) {
   .show-card {
