@@ -1,6 +1,5 @@
-<div class="edit-div"></div>
 <img class="background"></img>
-
+<div class="edit-div">
   <div class="edit-card">
     <h2>Edit Sneaker</h2>
     <div class="row">
@@ -19,17 +18,40 @@
 </div>
 <div class="col">
   <div class="form-group">
+  <label for="img">Image Link</label>
+  <input class="edit-input" type="text" name='img' id='img'value='<%= sneaker.img %>'>
+  </div>
+  </div><div class="col">
+    <div class="form-group">
+    <label for="img">Image Link L</label>
+    <input class="edit-input" type="text" name='imgl' id='imgl'value='<%= sneaker.imgL %>'>
+    </div>
+    </div>
+    <div class="col">
+      <div class="form-group">
+      <label for="imgCL">Image Link CL</label>
+      <input class="edit-input" type="text" name='imgcl' id='imgcl'value='<%= sneaker.imgCL %>'>
+      </div>
+      </div>
+      <div class="col">
+        <div class="form-group">
+        <label for="img">Image Link CR</label>
+        <input class="edit-input" type="text" name='imgcr' id='imgcr'value='<%= sneaker.imgCR %>'>
+        </div>
+        </div>
+        <div class="col">
+          <div class="form-group">
+          <label for="img">Image Link R</label>
+          <input class="edit-input" type="text" name='imgr' id='imgr'value='<%= sneaker.imgR %>'>
+          </div>
+          </div>
+<div class="col">
+  <div class="form-group">
   <label for="colorWay">ColorWay</label>
   <input class="edit-input" type="text" name='colorWay' id='colorWay' value='<%= sneaker.colorWay %>'>
 </div>
 </div>
 <div class="col">
-  <div class="form-group">
-  <label for="img">Image Link</label>
-  <input class="edit-input" type="text" name='img' id='img'value='<%= sneaker.img %>'>
-  </div>
-  </div>
-  <div class="col">
     <div class="form-group">
   <label for="condition">Condition</label>
   <input class="edit-input" type="text" name='condition' id='condition' value='<%= sneaker.condition %>'>
