@@ -32,6 +32,13 @@ https://github.com/TamaraAndrea85/second_project.git
 Deployed Heroku app
 https://obscure-brook-48241.herokuapp.com/sneaker
 
+<img width="1440" alt="Screen Shot 2022-01-18 at 5 14 35 PM" src="https://user-images.githubusercontent.com/90014274/150029143-18981be2-a5ef-4867-8feb-4cb4ee3fd5b1.png">
+<img width="1440" alt="Screen Shot 2022-01-18 at 5 14 45 PM" src="https://user-images.githubusercontent.com/90014274/150029523-cb1f88b6-4bb5-48be-8ec5-a175ff6346c7.png">
+<img width="1440" alt="Screen Shot 2022-01-18 at 5 15 19 PM" src="https://user-images.githubusercontent.com/90014274/150029545-eef308b4-c8b3-458b-8953-dc80bde346d8.png">
+<img width="1440" alt="Screen Shot 2022-01-18 at 5 15 48 PM" src="https://user-images.githubusercontent.com/90014274/150029607-26a0a888-0b0d-4414-b752-6cc78563c112.png">
+
+
+
 
 
 
