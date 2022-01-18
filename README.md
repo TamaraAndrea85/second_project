@@ -30,6 +30,7 @@ GitHub Project Repo
 https://github.com/TamaraAndrea85/second_project.git
 
 Deployed Heroku app
+https://obscure-brook-48241.herokuapp.com/sneaker
 
 
 
